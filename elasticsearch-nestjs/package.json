@@ -28,7 +28,7 @@
     "@nestjs/graphql": "^6.5.4",
     "@nestjs/platform-express": "^6.7.2",
     "@types/elasticsearch": "^5.0.36",
-    "apollo-server-express": "^2.10.0",
+    "apollo-server-express": "^2.14.2",
     "elasticsearch": "^16.6.0",
     "graphql": "^14.6.0",
     "nestjs-graphql-gateway": "^1.1.5",
